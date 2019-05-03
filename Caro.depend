@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1556811968 source:c:\users\admin\desktop\caro\checkwin.cpp
+
+1556852063 source:c:\users\admin\desktop\caro\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<SDL_mixer.h>
+
+1556722167 source:c:\users\admin\desktop\caro\src\menu.cpp
+	"Menu.h"
+
+1556722167 c:\users\admin\desktop\caro\include\menu.h
+
+1556804062 source:c:\users\admin\desktop\caro\audio.cpp
+	"audio.h"
+
+1556804071 c:\users\admin\desktop\caro\audio.h
+	<SDL.h>
+
